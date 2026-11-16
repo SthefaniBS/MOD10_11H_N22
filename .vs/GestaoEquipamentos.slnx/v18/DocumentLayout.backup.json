@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESEN\\Desktop\\MOD10\\MOD10_11H_N22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B931C3B6-8773-9173-79B1-AA0BA988FD41}|..\\..\\GestaoEquipamentos\\GestaoEquipamentos.csproj|c:\\users\\esen\\desktop\\gestaoequipamentos\\interface\\formequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B931C3B6-8773-9173-79B1-AA0BA988FD41}|..\\..\\GestaoEquipamentos\\GestaoEquipamentos.csproj|c:\\users\\esen\\desktop\\gestaoequipamentos\\interface\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B931C3B6-8773-9173-79B1-AA0BA988FD41}|..\\..\\GestaoEquipamentos\\GestaoEquipamentos.csproj|c:\\users\\esen\\desktop\\gestaoequipamentos\\modelo\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B931C3B6-8773-9173-79B1-AA0BA988FD41}|..\\..\\GestaoEquipamentos\\GestaoEquipamentos.csproj|c:\\users\\esen\\desktop\\gestaoequipamentos\\interface\\formequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5749AA4C-E108-05D2-50DC-24E3379B406C}|..\\..\\GestaoEquipamentos\\GestaoEquipamentos.csproj|c:\\users\\esen\\desktop\\gestaoequipamentos\\interface\\formequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B931C3B6-8773-9173-79B1-AA0BA988FD41}|..\\..\\GestaoEquipamentos\\GestaoEquipamentos.csproj|c:\\users\\esen\\desktop\\gestaoequipamentos\\interface\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\GestaoEquipamentos\\Interface\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "..\\..\\GestaoEquipamentos\\Interface\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\GestaoEquipamentos\\Interface\\FormPrincipal.cs",
+              "RelativeToolTip": "..\\..\\GestaoEquipamentos\\Interface\\FormPrincipal.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T17:44:15.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormEquipamento.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "RelativeDocumentMoniker": "..\\..\\GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "RelativeToolTip": "..\\..\\GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACsAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T18:39:45.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEquipamento.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "RelativeDocumentMoniker": "..\\..\\GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\GestaoEquipamentos\\Interface\\FormEquipamento.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\GestaoEquipamentos\\Interface\\FormEquipamento.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:30:18.459Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormPrincipal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\GestaoEquipamentos\\Interface\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "..\\..\\GestaoEquipamentos\\Interface\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\GestaoEquipamentos\\Interface\\FormPrincipal.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\GestaoEquipamentos\\Interface\\FormPrincipal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T17:43:43.233Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormEquipamento.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "RelativeDocumentMoniker": "..\\..\\GestaoEquipamentos\\Interface\\FormEquipamento.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\GestaoEquipamentos\\Interface\\FormEquipamento.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\GestaoEquipamentos\\Interface\\FormEquipamento.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T18:39:25.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Equipamento.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\Desktop\\GestaoEquipamentos\\Modelo\\Equipamento.cs",
+              "RelativeDocumentMoniker": "..\\..\\GestaoEquipamentos\\Modelo\\Equipamento.cs",
+              "ToolTip": "C:\\Users\\ESEN\\Desktop\\GestaoEquipamentos\\Modelo\\Equipamento.cs",
+              "RelativeToolTip": "..\\..\\GestaoEquipamentos\\Modelo\\Equipamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T17:40:36.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
