@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <!-- Para usar o .NET Framework 4.8, trocar a linha seguinte por:
+         <TargetFramework>net48</TargetFramework>                      -->
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>GestaoEquipamentos</RootNamespace>
+    <AssemblyName>GestaoEquipamentos</AssemblyName>
+    <!-- C# 7.3: a versão da linguagem do .NET Framework 4.8 -->
+    <LangVersion>7.3</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Logica\" />
+  </ItemGroup>
+
+</Project>
